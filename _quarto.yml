@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Alexandra Schmitz"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+      - education.qmd
+      - projects.qmd
+
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+    toc: true
+
+

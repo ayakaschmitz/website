@@ -1,0 +1,22 @@
+---
+title: "Hello!"
+image: profile.jpeg
+about: 
+  template: jolla
+  image-shape: rectangle
+  image-width: 15em
+  links: 
+    - text: Email
+      icon: envelope
+      href: mailto:alexandra.2.schmitz@ucdenver.edu
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/alexandra-s-871992243/
+  id: ppc
+---
+
+::: {#ppc}
+I am a recent graduate of University of Colorado, Denver where I majored in biology and minored in mathematics. My education has equipped me with excellent problem-solving, communication, and critical thinking skills. I am also proficient in querying languages such as SQL and programming languages such as Python and R. I am eager to apply these technical skills to make data-driven decisions. I am specifically interested in solving problems related to the healthcare and the environmental field.
+:::
+
+

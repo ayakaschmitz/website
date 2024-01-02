@@ -1,0 +1,42 @@
+---
+title: "Education"
+image: cu_logo.png
+about: 
+  template: solana
+  image-shape: rectangle
+  image-width: 10em
+  id: edu
+---
+:::{#edu}
+
+***
+**University of Colorado, Denver** | 
+B.S in Biology, Minor in Mathematics | December 2023
+
+**Red Rocks Community College** |
+A.A.S in Software Development | August 2022
+
+***
+### Coursework
+***
+- Applied Linear Algebra
+- Statistical Theory
+- Biostatistics
+- Data Wrangling and Visualization
+- Introduction to Python
+- Advanced Python
+- Data Structures
+- Computer Architecture and Assembly 
+- Database Management 
+- System Analysis and Design
+- Introduction to Linux 
+- Introduction to Secure Coding
+- Organic Chemistry I
+- Principles of Ecology 
+- Introduction to Evolution
+- Microbiology 
+- Molecular Biology 
+- Biotechnology 
+
+***
+:::

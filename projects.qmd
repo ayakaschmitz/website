@@ -1,0 +1,28 @@
+---
+title: "Projects"
+  
+---
+
+## Causes of Death Around the World
+
+- Merged multiple data sets to combine socioeconomic status, population, and death categories data. 
+- Pivotted tables and filtered, selected, mutated and removed missing data. 
+- Created univariate graphs to determine distribution of response and predictor variables.
+- Created bivariate and multivariate graphs using ggplot to visualize deaths caused by self harm in relation to predictor variables (socioeconomic status, population density, etc.).
+- Github Link Coming Soon 
+
+![Multivaraite Graph](multivariategraph.png)
+
+## Perspective Paper on Biotechnology 
+
+- Gathered information on bacteria-based immunotherapy for cancer from multiple primary and secondary resources.
+- Integrated data and evidence into paper to help reader understand the impact/importance of the technology.
+- Applied technical writing skills and simplified concepts so a non-expert could understand the concepts presented. 
+- PDF Link Coming Soon.
+
+## Coffee Shop Database Project
+
+- Used MySQL workbench to add, remove, and store orders in database. 
+- Organized employees and shifts and integrated as a relational database.  
+- Implemented triggers/procedures used to consider inventory limitations.  
+- Github Link Coming Soon. 

@@ -1,0 +1,40 @@
+---
+title: "Skills"
+---
+
+## Programming
+- Python
+- C++ 
+- R
+- Java
+
+## Operating Systems
+- Linux
+- Windows
+
+## Miscellaneous
+- SQL 
+- HTML/CSS
+- AWS Cloud Services
+- Databricks
+- Lucidchart
+- Github
+- Jamovi 
+
+## Soft Skills
+- Customer Service 
+- Time Management
+- Communication  
+- Teamwork 
+- Adaptability 
+- Leadership 
+- Interpersonal
+
+## Laboratory Skills
+- Immunohistochemistry
+- Confocal Microscopy 
+- Cell Culturing
+
+## Languages
+- English
+- Japanese
